@@ -4,6 +4,10 @@ My name is Brian, a data analyst with a passion for storytelling and a love for 
 
 Below are all links to my projects in Notion. Feel free to check them out!
 
-#
-|dddd|ddd|
+#Projects
+|Project Name   |Description|
+|---------------|-----------|
+|Sales Dashboard|bleh       |
+
+
 
