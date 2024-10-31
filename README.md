@@ -8,9 +8,9 @@ Below are all links to my projects in Notion. Feel free to check them out!
 # Projects
 |Project Name   |Description|
 |---------------|-----------|
-|Universal Craft Inc. Sales Dashboard|As part of working at Universal Craft Inc., I developed a sales dashboard using Python, SQL, and Tableau to track key performance indicators and develop insights to assess consumer trends and  patterns across various revenue channels.|
-|RWFD Emergency Room Dashboard|This dashboard simulated the activity in a hospital setting. By visualizing patient data, visits over time, department visits, and more, this dashboard informed data-driven decision making to increase emergency room efficiency through departmental resource allocation. This dashboard serves both as a performance tracker and strategic tool.|
-|Chess Dashboard|This dashboard visualizes the effectiveness and popularity of various chess openings across different player ratings, highlighting key insights into winning strategies and trends. It offers a clear view of how often each opening is used, its win rate, and the types of players (by rating) who prefer certain strategies, enabling new players to make informed decisions about which openings to study and apply in their games.|
+|[Universal Craft Inc. Sales Dashboard](https://www.notion.so/Universal-Craft-Inc-Sales-Dashboard-12f5600ad6998028a2e4e09ce1db93e3)|As part of working at Universal Craft Inc., I developed a sales dashboard using Python, SQL, and Tableau to track key performance indicators and develop insights to assess consumer trends and  patterns across various revenue channels.|
+|[RWFD Emergency Room Dashboard](https://www.notion.so/RWFD-Emergency-Room-Dashboard-12f5600ad69980959e3ecce431c10155)|This dashboard simulated the activity in a hospital setting. By visualizing patient data, visits over time, department visits, and more, this dashboard informed data-driven decision making to increase emergency room efficiency through departmental resource allocation. This dashboard serves both as a performance tracker and strategic tool.|
+|[Chess Dashboard](https://www.notion.so/Chess-Dashboard-fb0353e532054fb5a49ecf2857fc9782)|This dashboard visualizes the effectiveness and popularity of chess openings across player ratings, highlighting win rates and player trends. It helps players choose optimal strategies and gain insights into which openings to study and apply in their games.|
 
 
 
